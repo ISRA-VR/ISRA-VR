@@ -1,11 +1,6 @@
 <h1 align="center">✨ Hola, soy <a href="https://github.com/TU-USUARIO">ISRA-VR</a> ✨</h1>
 <h3 align="center">💻 Estudiante de Desarrollo de Software Multiplataforma | 🌐 Apasionado por la Tecnología y la IA 🤖</h3>
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=00F700&center=true&vCenter=true&width=600&lines=💡+Siempre+aprendiendo+nuevas+tecnologías;🚀+Amante+del+desarrollo+web;🤖+Entusiasta+de+la+Inteligencia+Artificial" alt="Typing SVG"/>
-</p>
-
----
 
 ## 🚀 Sobre mí  
 
@@ -20,7 +15,6 @@
 - 🔹 Amante de la **Inteligencia Artificial** 🤖 (Copilot, Gemini, ChatGPT, etc.)  
 - 🔹 Lo que más quiero: **aprender tecnología todos los días**  
 
----
 
 ## 🛠️ Tecnologías y herramientas  
 
@@ -28,7 +22,6 @@
   <img src="https://skillicons.dev/icons?i=html,css,javascript,java,kotlin,python,git,github,vscode,figma" />
 </p>
 
----
 
 ## 🎯 Objetivos en camino  
 
@@ -37,7 +30,6 @@
 ✔️ Convertirme en desarrollador fullstack en el futuro  
 ✔️ Contribuir a la comunidad open source  
 
----
 
 ## 🌐 Conéctate conmigo  
 
@@ -53,19 +45,17 @@
   </a>
 </p>
 
----
 
 <p align="center">
   <b>💻 Hecho con pasión por aprender y compartir 🚀</b><br/>
   <i>“La tecnología avanza, pero el verdadero progreso está en nunca dejar de aprender.”</i>
 </p>
 
----
 
 <p align="center">
   <img src="https://media.giphy.com/media/sIIhZliB2McAo/giphy.gif" width="400" alt="nyan cat" />
 </p>
 
 <p align="center">
-  🌈✨ ¡Gracias por visitar mi perfil! ✨🌈
+  ✨ ¡Gracias por visitar mi perfil! ✨
 </p>
