@@ -1,8 +1,9 @@
-# 👋 Hola, soy [Tu Nombre]  
+<h1 align="center">✨ Hola, soy <a href="https://github.com/TU-USUARIO">ISRA-VR</a> ✨</h1>
+<h3 align="center">💻 Estudiante de Desarrollo de Software Multiplataforma | 🌐 Apasionado por la Tecnología y la IA 🤖</h3>
 
-💻 **Estudiante de Desarrollo de Software Multiplataforma**  
-🌐 Amante del **diseño web** y apasionado por la **tecnología y la inteligencia artificial**.  
-⚡ Siempre aprendiendo, siempre creando.  
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=00F700&center=true&vCenter=true&width=600&lines=💡+Siempre+aprendiendo+nuevas+tecnologías;🚀+Amante+del+desarrollo+web;🤖+Entusiasta+de+la+Inteligencia+Artificial;🌍+Con+metas+claras+y+grandes+sueños" alt="Typing SVG" />
+</p>
 
 ---
 
@@ -37,30 +38,29 @@
 ✔️ Convertirme en desarrollador fullstack en el futuro  
 ✔️ Contribuir a la comunidad open source  
 
----
-
-## 📊 GitHub Stats  
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=TU-USUARIO&show_icons=true&theme=tokyonight" alt="stats" height="180em"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TU-USUARIO&layout=compact&theme=tokyonight" alt="langs" height="180em"/>
-</p>
-
----
-
-## ✨ Frase que me inspira  
-
-> *"La tecnología avanza, pero el verdadero progreso está en nunca dejar de aprender."* 🚀  
-
----
 
 ## 🌐 Conéctate conmigo  
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/TU-LINK" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>
+  <a href="https://www.facebook.com/isra.IVR01/?locale=es_LA" target="_blank">
+    <img src="https://img.shields.io/badge/Facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white"/>
   </a>
-  <a href="mailto:TUCORREO@example.com">
+  <a href="https://www.instagram.com/isdra_chess/" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white"/>
+  </a>
+  <a href="mailto:israelvalerdi65@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?&style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
 </p>
+
+---
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C9FF,100:92FE9D&height=100&section=footer&animation=twinkling"/>
+</p>
+
+<p align="center">
+  <b>💻 Hecho con pasión por aprender y compartir 🚀</b><br/>
+  <i>“La tecnología avanza, pero el verdadero progreso está en nunca dejar de aprender.”</i>
+</p>
+
