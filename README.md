@@ -2,7 +2,7 @@
 <h3 align="center">💻 Estudiante de Desarrollo de Software Multiplataforma | 🌐 Apasionado por la Tecnología y la IA 🤖</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=00F700&center=true&vCenter=true&width=600&lines=💡+Siempre+aprendiendo+nuevas+tecnologías;🚀+Amante+del+desarrollo+web;🤖+Entusiasta+de+la+Inteligencia+Artificial;/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=00F700&center=true&vCenter=true&width=600&lines=💡+Siempre+aprendiendo+nuevas+tecnologías;🚀+Amante+del+desarrollo+web;🤖+Entusiasta+de+la+Inteligencia+Artificial" alt="Typing SVG"/>
 </p>
 
 ---
@@ -10,14 +10,13 @@
 ## 🚀 Sobre mí  
 
 - 🔹 Conocimientos básicos en **HTML5, CSS3 y JavaScript**  
-- 🔹 Actualmente aprendiendo **Kotlin, Java y Python**  
+- 🔹 Actualmente aprendiendo **Kotlin, Java, Python y Android Studio**  
 - 🔹 Me considero **bueno en el diseño de páginas web** 🖌️  
 - 🔹 Disfruto trabajar en equipo, pero siempre con enfoque en la productividad 📈  
 - 🔹 Mis metas:
   - Aprender **inglés avanzado** 🌍  
   - Dominar más **lenguajes de programación**  
   - Aprender **frameworks modernos** como *React, Angular, Spring, etc.*  
-- 🔹 Me gusta ejercitarme 💪 y mantenerme activo tanto física como mentalmente  
 - 🔹 Amante de la **Inteligencia Artificial** 🤖 (Copilot, Gemini, ChatGPT, etc.)  
 - 🔹 Lo que más quiero: **aprender tecnología todos los días**  
 
@@ -38,6 +37,7 @@
 ✔️ Convertirme en desarrollador fullstack en el futuro  
 ✔️ Contribuir a la comunidad open source  
 
+---
 
 ## 🌐 Conéctate conmigo  
 
