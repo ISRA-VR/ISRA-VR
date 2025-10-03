@@ -56,10 +56,6 @@
 ---
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C9FF,100:92FE9D&height=100&section=footer&animation=twinkling"/>
-</p>
-
-<p align="center">
   <b>💻 Hecho con pasión por aprender y compartir 🚀</b><br/>
   <i>“La tecnología avanza, pero el verdadero progreso está en nunca dejar de aprender.”</i>
 </p>
