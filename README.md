@@ -2,7 +2,7 @@
 <h3 align="center">💻 Estudiante de Desarrollo de Software Multiplataforma | 🌐 Apasionado por la Tecnología y la IA 🤖</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=00F700&center=true&vCenter=true&width=600&lines=💡+Siempre+aprendiendo+nuevas+tecnologías;🚀+Amante+del+desarrollo+web;🤖+Entusiasta+de+la+Inteligencia+Artificial;🌍+Con+metas+claras+y+grandes+sueños" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=00F700&center=true&vCenter=true&width=600&lines=💡+Siempre+aprendiendo+nuevas+tecnologías;🚀+Amante+del+desarrollo+web;🤖+Entusiasta+de+la+Inteligencia+Artificial;/>
 </p>
 
 ---
@@ -64,3 +64,12 @@
   <i>“La tecnología avanza, pero el verdadero progreso está en nunca dejar de aprender.”</i>
 </p>
 
+---
+
+<p align="center">
+  <img src="https://media.giphy.com/media/sIIhZliB2McAo/giphy.gif" width="400" alt="nyan cat" />
+</p>
+
+<p align="center">
+  🌈✨ ¡Gracias por visitar mi perfil! ✨🌈
+</p>
