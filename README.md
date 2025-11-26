@@ -1,35 +1,37 @@
-<h1 align="center">✨ Hi, I am <a href="https://github.com/TU-USUARIO">ISRA-VR</a> ✨</h1>
-<h3 align="center">💻 Multiplatform Software Development Student | 🌐 Passionate about Technology and AI 🤖</h3>
+<h1 align="center">✨ Hola, Yo soy <a href="https://github.com/TU-USUARIO">ISRA-VR</a> ✨</h1>
+<h3 align="center">💻 Estudiante de desarrollo de software multiplataforma 👨‍💻<br> 
+  🌐 Apasionado por la tecnología y la inteligencia artificial 🤖</h3>
 
-## 🚀 About me
+## 🚀 Acerca de mí
 
-- 🔹 Basic knowledge of HTML5, CSS3, and JavaScript
-- 🔹 Currently learning Kotlin, Java, Python, and Android Studio
-- 🔹 I consider myself skilled at web design 🖌️  
-- 🔹 I enjoy working in a team, but always with a focus on productivity 📈  
-- 🔹 My goals:
-- Learn **advanced English** 🌍
-- Master more **programming languages**
-- Learn **modern frameworks** such as React, Angular, Spring, etc.  
-- 🔹 Lover of **Artificial Intelligence** 🤖 (Copilot, Gemini, ChatGPT, etc.)
-- 🔹 What I want most: **to learn technology every day** 
+- 🔹 Conocimientos básicos en back-end.
+- 🔹 Actualmente estoy aprendiendo nuevos lenguajes de programación.
+- 🔹 Me considero hábil en el front-end.
+- 🔹 Me gusta trabajar en equipo, pero siempre centrándome en la productividad.
+  
+## 🏁 Mis objetivos
+- 🔹 Aprender **inglés avanzado**.
+- 🔹 Dominar más **lenguajes de programación**.
+- 🔹 Aprender **marcos modernos** como React, Angular, Spring, etc.
+- 🔹 Entender a la **inteligencia artificial** 🤖 (Copilot, Gemini, ChatGPT, etc.)
+- 🔹 Estudiar frameworks y sus estructuras.
 
-## 🛠️ Technologies and tools  
+## 🛠️ Tecnologías y herramientas  
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,javascript,java,kotlin,python,git,github,vscode,figma" />
 </p>
 
 
-## 🎯 Goals in progress  
+## 🎯 Objetivos en curso 
 
-✔️ Improve my web projects with modern design  
-✔️ Collaborate on software projects as part of a team  
-✔️ Become a full-stack developer in the future  
-✔️ Contribute to the open source community  
+✔️ Mejorar mis proyectos web con un diseño moderno.  
+✔️ Colaborar en proyectos de software como parte de un equipo.  
+✔️ Convertirme en desarrollador full-stack. <br>
+✔️ Contribuir a la comunidad de código abierto.  
+✔️ Implementar WEB3 en aplicaciones web 
 
-
-## 🌐 Connect with me  
+## 🌐 Conéctate conmigo
 
 <p align="center">
   <a href="https://www.facebook.com/isra.IVR01/?locale=es_LA" target="_blank">
@@ -45,16 +47,14 @@
 
 
 <p align="center">
-  <b>💻 Made with a passion for learning and sharing 🚀</b><br/>
-  <i>“Technology advances, but true progress lies in never stopping learning.”</i>
+  <b>💻 Creado con pasión por aprender y compartir 🚀</b><br/>
+  <i>«El software es como el sexo: es mejor cuando es gratis - Linus Torvalds».</i>
 </p>
-
 
 <p align="center">
   <img src="https://media.giphy.com/media/sIIhZliB2McAo/giphy.gif" width="400" alt="nyan cat" />
 </p>
 
 <p align="center">
-  ✨ Thank you for visiting my profile! ✨<br>
   🌮🇲🇽
 </p>
