@@ -1,37 +1,54 @@
-<h1 align="center">✨ Hola, Yo soy <a href="https://github.com/TU-USUARIO">ISRA-VR</a> ✨</h1>
-<h3 align="center">💻 Estudiante de desarrollo de software multiplataforma 👨‍💻<br> 
-  🌐 Apasionado por la tecnología y la inteligencia artificial 🤖</h3>
+<h1 align="center">✨ Hola, soy <a href="https://github.com/ISRA-VR">ISRA-VR</a> ✨</h1>
 
-## 🚀 Acerca de mí
+<h3 align="center">
+💻 Estudiante de Desarrollo de Software Multiplataforma <br>
+🚀 Apasionado por la tecnología, la innovación y la Inteligencia Artificial 🤖
+</h3>
 
-- 🔹 Conocimientos básicos en back-end.
-- 🔹 Actualmente estoy aprendiendo nuevos lenguajes de programación.
-- 🔹 Me considero hábil en el front-end.
-- 🔹 Me gusta trabajar en equipo, pero siempre centrándome en la productividad.
-  
-## 🏁 Mis objetivos
-- 🔹 Aprender **inglés avanzado**.
-- 🔹 Dominar más **lenguajes de programación**.
-- 🔹 Aprender **marcos modernos** como React, Angular, Spring, etc.
-- 🔹 Entender a la **inteligencia artificial** 🤖 (Copilot, Gemini, ChatGPT, etc.)
-- 🔹 Estudiar frameworks y sus estructuras.
+---
 
-## 🛠️ Tecnologías y herramientas  
+## 🚀 Sobre mí
+
+Soy estudiante de **Tecnología de la Información / Desarrollo de Software**, con enfoque en la creación de **sistemas y soluciones digitales**.  
+Me gusta aprender haciendo, experimentar con nuevas tecnologías y mejorar constantemente mis proyectos.
+
+- 🔹 Conocimientos básicos en **backend**.
+- 🔹 Buen dominio de **frontend** y diseño de interfaces.
+- 🔹 Interés en **IA, APIs, servicios web y arquitectura de software**.
+- 🔹 Trabajo en equipo con enfoque en **productividad y resultados**.
+
+---
+
+## 🎯 Objetivos profesionales
+
+- 📚 Alcanzar un **nivel avanzado de inglés**.
+- 💻 Dominar **más lenguajes de programación**.
+- ⚛️ Aprender frameworks modernos (**React, Angular, Spring**, etc.).
+- 🤖 Profundizar en **Inteligencia Artificial** (ChatGPT, Copilot, Gemini).
+- 🧩 Comprender arquitecturas modernas y buenas prácticas.
+- 🌐 Explorar **Web3** y su aplicación en proyectos reales.
+
+---
+
+## 🛠️ Tecnologías y herramientas
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,javascript,java,kotlin,python,git,github,vscode,figma" />
+  <img src="https://skillicons.dev/icons?i=html,css,javascript,java,kotlin,python,git,github,vscode,figma,nodejs" />
 </p>
 
+---
 
-## 🎯 Objetivos en curso 
+## 📌 En qué estoy trabajando ahora
 
-✔️ Mejorar mis proyectos web con un diseño moderno.  
-✔️ Colaborar en proyectos de software como parte de un equipo.  
-✔️ Convertirme en desarrollador full-stack. <br>
-✔️ Contribuir a la comunidad de código abierto.  
-✔️ Implementar WEB3 en aplicaciones web 
+✔️ Mejorando proyectos web con **diseño moderno y UX**  
+✔️ Desarrollando aplicaciones que consumen **APIs y servicios web**  
+✔️ Avanzando hacia un perfil **Full-Stack**  
+✔️ Aprendiendo buenas prácticas y arquitectura  
+✔️ Buscando colaborar en proyectos reales y open source  
 
-## 🌐 Conéctate conmigo
+---
+
+## 🌐 Conecta conmigo
 
 <p align="center">
   <a href="https://www.facebook.com/isra.IVR01/?locale=es_LA" target="_blank">
@@ -45,14 +62,15 @@
   </a>
 </p>
 
+---
 
 <p align="center">
-  <b>💻 Creado con pasión por aprender y compartir 🚀</b><br/>
-  <i>«El software es como el sexo: es mejor cuando es gratis - Linus Torvalds».</i>
+  <b>💻 Construyendo soluciones mientras aprendo 🚀</b><br/>
+  <i>“El software es como el sexo: es mejor cuando es gratis” — Linus Torvalds</i>
 </p>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/sIIhZliB2McAo/giphy.gif" width="400" alt="nyan cat" />
+  <img src="https://media.giphy.com/media/sIIhZliB2McAo/giphy.gif" width="350" alt="coding gif" />
 </p>
 
 <p align="center">
