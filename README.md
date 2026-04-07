@@ -1,50 +1,60 @@
 <h1 align="center">✨ Hola, soy <a href="https://github.com/ISRA-VR">ISRA-VR</a> ✨</h1>
 
 <h3 align="center">
-💻 Estudiante de Desarrollo de Software Multiplataforma <br>
-🚀 Apasionado por la tecnología, la innovación y la Inteligencia Artificial 🤖
+💻 Estudiante de TI e Innovación Digital (Desarrollo de Software) <br>
+🚀 En camino a Full-Stack | ⚙️ Backend | 🤖 IA & Automatización
 </h3>
 
 ---
 
 ## 🚀 Sobre mí
 
-Soy estudiante de **Tecnología de la Información / Desarrollo de Software**, con enfoque en la creación de **sistemas y soluciones digitales**.  
-Me gusta aprender haciendo, experimentar con nuevas tecnologías y mejorar constantemente mis proyectos.
+Soy estudiante de **Tecnología de la Información e Innovación Digital**, enfocado en el desarrollo de **software y soluciones web funcionales**.  
+Me gusta construir proyectos reales, entender cómo funcionan los sistemas por dentro y optimizar procesos.
 
-- 🔹 Conocimientos básicos en **backend**.
-- 🔹 Buen dominio de **frontend** y diseño de interfaces.
-- 🔹 Interés en **IA, APIs, servicios web y arquitectura de software**.
-- 🔹 Trabajo en equipo con enfoque en **productividad y resultados**.
+- 🔹 Experiencia en **frontend moderno y diseño de interfaces (UI/UX)**.
+- 🔹 Conocimientos en **backend y consumo de APIs**.
+- 🔹 Trabajo con **bases de datos y modelado (MER, lógica de negocio)**.
+- 🔹 Interés en **automatización de servicios (Linux, servidores, correo)**.
+- 🔹 Enfocado en mejorar como **Full-Stack Developer**.
 
 ---
 
 ## 🎯 Objetivos profesionales
 
-- 📚 Alcanzar un **nivel avanzado de inglés**.
-- 💻 Dominar **más lenguajes de programación**.
-- ⚛️ Aprender frameworks modernos (**React, Angular, Spring**, etc.).
-- 🤖 Profundizar en **Inteligencia Artificial** (ChatGPT, Copilot, Gemini).
-- 🧩 Comprender arquitecturas modernas y buenas prácticas.
-- 🌐 Explorar **Web3** y su aplicación en proyectos reales.
+- 💻 Convertirme en **desarrollador Full-Stack sólido**.
+- 🧠 Dominar estructuras, lógica y buenas prácticas de desarrollo.
+- ⚙️ Profundizar en **backend (Node.js, Java, APIs, arquitectura)**.
+- 🤖 Aplicar **Inteligencia Artificial** en proyectos reales.
+- 🌐 Construir proyectos escalables y listos para producción.
+- 📈 Generar ingresos a través de software y tecnología.
 
 ---
 
 ## 🛠️ Tecnologías y herramientas
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,javascript,java,kotlin,python,git,github,vscode,figma,nodejs" />
+  <img src="https://skillicons.dev/icons?i=html,css,javascript,java,kotlin,python,nodejs,git,github,vscode,figma,linux" />
 </p>
 
 ---
 
 ## 📌 En qué estoy trabajando ahora
 
-✔️ Mejorando proyectos web con **diseño moderno y UX**  
-✔️ Desarrollando aplicaciones que consumen **APIs y servicios web**  
-✔️ Avanzando hacia un perfil **Full-Stack**  
-✔️ Aprendiendo buenas prácticas y arquitectura  
-✔️ Buscando colaborar en proyectos reales y open source  
+✔️ Desarrollo de aplicaciones web con enfoque **Full-Stack**  
+✔️ Consumo e integración de **APIs y servicios web**  
+✔️ Diseño y gestión de **bases de datos (modelado y consultas)**  
+✔️ Automatización de servicios en **Linux (Postfix, Dovecot, etc.)**  
+✔️ Mejorando arquitectura, organización de código y buenas prácticas  
+
+---
+
+## 🧠 Actualmente aprendiendo
+
+- ⚛️ **React y frameworks modernos**
+- 🧩 **Arquitectura de software**
+- 🔐 **Buenas prácticas backend y seguridad**
+- ☁️ **Servicios y despliegue (devops básico)**
 
 ---
 
@@ -54,7 +64,7 @@ Me gusta aprender haciendo, experimentar con nuevas tecnologías y mejorar const
   <a href="https://www.facebook.com/isra.IVR01/?locale=es_LA" target="_blank">
     <img src="https://img.shields.io/badge/Facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white"/>
   </a>
-  <a href="https://www.instagram.com/isdra_chess/" target="_blank">
+  <a href="https://www.instagram.com/isra_v01/" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white"/>
   </a>
   <a href="mailto:israelvalerdi65@gmail.com">
@@ -65,8 +75,8 @@ Me gusta aprender haciendo, experimentar con nuevas tecnologías y mejorar const
 ---
 
 <p align="center">
-  <b>💻 Construyendo soluciones mientras aprendo 🚀</b><br/>
-  <i>“El software es como el sexo: es mejor cuando es gratis” — Linus Torvalds</i>
+  <b>💻 Construyendo soluciones reales mientras aprendo 🚀</b><br/>
+  <i>"Primero haz que funcione, luego hazlo bien, después hazlo rápido."</i>
 </p>
 
 <p align="center">
